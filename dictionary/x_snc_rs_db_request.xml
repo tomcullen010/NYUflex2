@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Request" max_length="40" name="x_snc_rs_db_request" sizeclass="1" type="collection">
+        <element choice="1" label="Complexity Level" max_length="40" name="complexity_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Level 1 (Simple)" sequence="10" value="1"/>
+                <element inactive_on_update="false" label="Level 2 (Medium)" sequence="20" value="2"/>
+                <element inactive_on_update="false" label="Level 3 (Hard)" sequence="30" value="3"/>
+                <element inactive_on_update="false" label="Level  4 (Difficult)" sequence="40" value="4"/>
+            </choice>
+        </element>
+        <element label="Contract number" max_length="40" name="contract_number" type="string"/>
+        <element default="0" label="Crystal process request count" max_length="40" name="crystal_process_request_count" type="integer"/>
+        <element label="DEV Menu Path" max_length="40" name="dev_menu_path" type="string"/>
+        <element choice="1" label="DX Activity" max_length="40" name="dx_activity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Map Promotion" sequence="10" value="map promotion"/>
+                <element inactive_on_update="false" label="Map decommission" sequence="20" value="decommission"/>
+            </choice>
+        </element>
+        <element choice="1" label="Environment" max_length="40" name="environment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pre Prod" sequence="10" value="pre prod"/>
+                <element inactive_on_update="false" label="Production" sequence="20" value="production"/>
+            </choice>
+        </element>
+        <element choice="1" label="EPP Support Category" max_length="40" name="epp_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="EPP Approval" sequence="10" value="epp approval"/>
+                <element inactive_on_update="false" label="EPP Request" sequence="20" value="epp request"/>
+                <element inactive_on_update="false" label="Research Request" sequence="30" value="research request"/>
+                <element inactive_on_update="false" label="Workorder" sequence="40" value="workorder"/>
+            </choice>
+        </element>
+        <element label="From date" max_length="40" name="from_date" type="glide_date"/>
+        <element label="Menu Name" max_length="40" name="menu_name" type="string"/>
+        <element label="MM Thrift plan" max_length="40" name="mm_thrift_plan" type="boolean"/>
+        <element label="Plan ID number" max_length="40" name="plan_id_number" type="string"/>
+        <element label="Name of Report" max_length="40" name="report_name" type="string"/>
+        <element label="Report needed" max_length="32" name="report_needed" reference="x_snc_rs_db_available_reports" type="reference"/>
+        <element choice="1" label="Report Style" max_length="40" name="report_style" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Internal" sequence="10" value="internal"/>
+                <element inactive_on_update="false" label="External" sequence="20" value="external"/>
+            </choice>
+        </element>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Support Activity" mandatory="true" max_length="32" name="support_activity" reference="x_snc_rs_db_support_activity" type="reference"/>
+        <element label="To date" max_length="40" name="to_date" type="glide_date"/>
+    </element>
+</database>

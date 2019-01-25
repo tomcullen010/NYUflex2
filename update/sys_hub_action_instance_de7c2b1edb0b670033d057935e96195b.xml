@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Look Up Record">b93f42810b30030085c083eb37673a63</action_type>
+        <action_type_parent/>
+        <comment>Get the Request Record</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="RS DB Crystal Task and Approval">286b23dadb0b670033d057935e961995</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-19 14:44:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>de7c2b1edb0b670033d057935e96195b</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_hub_action_instance_de7c2b1edb0b670033d057935e96195b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-19 16:42:23</sys_updated_on>
+        <ui_id>c6c87e3e-85bd-40e1-adf0-f8839586d854</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=de7c2b1edb0b670033d057935e96195b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>de7c2b1edb0b670033d057935e96195b</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-19 14:44:01</sys_created_on>
+        <sys_id>d27c2b1edb0b670033d057935e96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-19 14:44:01</sys_updated_on>
+        <value>x_snc_rs_db_request</value>
+        <variable display_value="">79305e810b30030085c083eb37673a85</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=de7c2b1edb0b670033d057935e96195b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>de7c2b1edb0b670033d057935e96195b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-19 14:44:01</sys_created_on>
+        <sys_id>9e7c2b1edb0b670033d057935e96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-19 14:44:01</sys_updated_on>
+        <table>var__m_sys_hub_action_input_b93f42810b30030085c083eb37673a63</table>
+        <value>sys_id={{subflow.rs_db_request}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>de7c2b1edb0b670033d057935e96195b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-19 14:44:01</sys_created_on>
+        <sys_id>527c2b1edb0b670033d057935e96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-19 14:44:01</sys_updated_on>
+        <table>var__m_sys_hub_action_input_b93f42810b30030085c083eb37673a63</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

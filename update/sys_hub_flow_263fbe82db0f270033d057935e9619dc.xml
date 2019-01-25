@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>rs_db_technical_system_support</internal_name>
+        <label_cache>[{"name":"Created or Updated_1.current.sys_updated_on","label":"Trigger➛Request Record➛Updated","reference":"","reference_display":"Updated","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_snc_rs_db_request","column_name":"sys_updated_on"},{"name":"Created or Updated_1.current.support_activity.activity","label":"Trigger➛Request Record➛Support Activity➛Activity","reference":"","reference_display":"Activity","type":"string","base_type":"string","parent_table_name":"x_snc_rs_db_support_activity","column_name":"activity"},{"name":"46136e8d-851e-4cf8-995f-a4dc5e0a6a46.Record","label":"1.1➛Request Center Tasks Record","reference":"x_snc_rs_db_request_center_tasks","reference_display":"Request Center Tasks","type":"reference","base_type":"reference"},{"name":"46136e8d-851e-4cf8-995f-a4dc5e0a6a46.Table","label":"1.1➛Request Center Tasks Table","reference":"x_snc_rs_db_request_center_tasks","reference_display":"Request Center Tasks","type":"table_name","base_type":"table_name"},{"name":"f7167a76-c455-49d4-a8ee-fbae3fd4020c.approval_state","label":"1.2➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"Created or Updated_1.current","label":"Trigger➛Request Record","reference":"x_snc_rs_db_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"8c70b40b-dd57-4e86-b925-c400c9ed7e91.approval_state","label":"1.2➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"{{static.97814f06db0f270033d057935e961946}}","label":"RS DB Crystal Support","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.opened_at","label":"Trigger➛Request Record➛Opened","reference":"","reference_display":"Opened","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_snc_rs_db_request","column_name":"opened_at"},{"name":"Created or Updated_1.current.approval","label":"Trigger➛Request Record➛Approval","reference":"","reference_display":"Approval","type":"choice","base_type":"choice","parent_table_name":"x_snc_rs_db_request","column_name":"approval"},{"name":"ef5905da-c9c2-4526-a2b5-9849831c71cd.record","label":"1.3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"ef5905da-c9c2-4526-a2b5-9849831c71cd.table_name","label":"1.3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>RS DB Technical System Support</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-18 16:47:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>263fbe82db0f270033d057935e9619dc</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>RS DB Technical System Support</sys_name>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_hub_flow_263fbe82db0f270033d057935e9619dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-19 14:36:47</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=263fbe82db0f270033d057935e9619dc"/>
+</record_update>

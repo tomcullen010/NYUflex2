@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_rs_db_request</description>
+        <name>x_snc_rs_db_request</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-17 17:11:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3d0b7139db8fe30033d057935e96195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_rs_db_request</sys_name>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_security_acl_3d0b7139db8fe30033d057935e96195f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-17 17:11:24</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

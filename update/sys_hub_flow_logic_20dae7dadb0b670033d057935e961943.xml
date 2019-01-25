@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">a8dae7dadb0b670033d057935e961941</block>
+        <comment/>
+        <connected_to>22f18eff-b79a-4403-acf6-f1b39a562600</connected_to>
+        <display_text/>
+        <flow display_value="RS DB Technical System Support">263fbe82db0f270033d057935e9619dc</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>1.4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>45874be8-6e28-4cc8-a036-55df0eca8555</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-19 14:36:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>20dae7dadb0b670033d057935e961943</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_20dae7dadb0b670033d057935e961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-19 14:36:48</sys_updated_on>
+        <ui_id>a86b0ad6-0afd-44ff-b4ac-e929682d4ed7</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=20dae7dadb0b670033d057935e961943"/>
+</record_update>

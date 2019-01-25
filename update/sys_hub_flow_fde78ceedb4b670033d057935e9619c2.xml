@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>test_increment_action</internal_name>
+        <label_cache>[{"name":"Created or Updated_1.current.sys_id","label":"Trigger➛Request Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"x_snc_rs_db_request","column_name":"sys_id"},{"name":"Created or Updated_1.current","label":"Trigger➛Request Record","reference":"x_snc_rs_db_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.crystal_process_request_count","label":"Trigger➛Request Record➛Crystal process request count","reference":"","reference_display":"Crystal process request count","type":"integer","base_type":"integer","parent_table_name":"x_snc_rs_db_request","column_name":"crystal_process_request_count"},{"name":"3747dc3e-6a54-45d9-ac1a-fc44bd4116a2.rsdbrequest","label":"1➛RSDBrequest","reference":"x_snc_rs_db_request","reference_display":"RSDBrequest","type":"document_id","base_type":"document_id"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Test increment action</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-19 16:43:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fde78ceedb4b670033d057935e9619c2</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Test increment action</sys_name>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_hub_flow_fde78ceedb4b670033d057935e9619c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-20 16:01:18</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=fde78ceedb4b670033d057935e9619c2"/>
+</record_update>

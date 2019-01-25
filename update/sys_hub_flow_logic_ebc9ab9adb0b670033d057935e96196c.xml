@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">63c9ab9adb0b670033d057935e96196b</block>
+        <comment/>
+        <connected_to/>
+        <display_text/>
+        <flow display_value="RS DB Technical System Support">263fbe82db0f270033d057935e9619dc</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>1.3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>45874be8-6e28-4cc8-a036-55df0eca8555</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-19 14:32:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ebc9ab9adb0b670033d057935e96196c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_ebc9ab9adb0b670033d057935e96196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-19 14:36:48</sys_updated_on>
+        <ui_id>22f18eff-b79a-4403-acf6-f1b39a562600</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=ebc9ab9adb0b670033d057935e96196c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>ebc9ab9adb0b670033d057935e96196c</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-19 14:32:21</sys_created_on>
+        <sys_id>27c9ab9adb0b670033d057935e961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-19 14:32:21</sys_updated_on>
+        <value>{{Created or Updated_1.current.approval}}=approved</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>ebc9ab9adb0b670033d057935e96196c</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-19 14:32:21</sys_created_on>
+        <sys_id>e7c9ab9adb0b670033d057935e961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-19 14:32:21</sys_updated_on>
+        <value>Approved</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+</record_update>
