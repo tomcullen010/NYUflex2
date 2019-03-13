@@ -3,6 +3,8 @@
         <block display_value="">63c9ab9adb0b670033d057935e96196b</block>
         <comment/>
         <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
         <display_text/>
         <flow display_value="RS DB Technical System Support">263fbe82db0f270033d057935e9619dc</flow>
         <inputs/>
@@ -14,13 +16,11 @@
         <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-19 14:32:21</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>ebc9ab9adb0b670033d057935e96196c</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
         <sys_update_name>sys_hub_flow_logic_ebc9ab9adb0b670033d057935e96196c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Rs Db Support Activity" max_length="40" name="u_imp_tmpl_x_snc_rs_db_support_activity" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Activity" label="Activity" max_length="40" name="u_activity" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Order" label="Order" max_length="40" name="u_order" type="integer"/>
+    </element>
+</database>

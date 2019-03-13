@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Request" max_length="40" name="x_snc_rs_db_request" sizeclass="1" type="collection">
+    <element extends="task" label="Request" max_length="40" name="x_snc_rs_db_request" type="collection">
         <element choice="1" label="Complexity Level" max_length="40" name="complexity_level" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Level 1 (Simple)" sequence="10" value="1"/>

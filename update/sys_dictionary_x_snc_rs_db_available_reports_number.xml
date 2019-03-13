@@ -53,17 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-17 18:08:21</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>8818c2b1dbcfe30033d057935e96194d</sys_id>
+        <sys_id>17076be0db5f2300f0effabdbf961961</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_rs_db_available_reports_number</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-17 18:08:21</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-01-26 14:06:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

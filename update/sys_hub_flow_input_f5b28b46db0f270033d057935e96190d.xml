@@ -60,13 +60,11 @@
         <sys_class_name>sys_hub_flow_input</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-18 17:03:05</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>f5b28b46db0f270033d057935e96190d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>var__m_sys_hub_flow_input_263fbe82db0f270033d057935e9619dc</sys_name>
         <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
         <sys_update_name>sys_hub_flow_input_f5b28b46db0f270033d057935e96190d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

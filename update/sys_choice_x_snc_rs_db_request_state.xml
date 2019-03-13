@@ -17,7 +17,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-19 14:26:55</sys_updated_on>
-            <u_translation_log_id/>
             <value>-5</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -37,7 +36,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-19 14:28:05</sys_updated_on>
-            <u_translation_log_id/>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -57,7 +55,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-19 14:28:32</sys_updated_on>
-            <u_translation_log_id/>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -77,7 +74,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-19 14:29:31</sys_updated_on>
-            <u_translation_log_id/>
             <value>3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -97,7 +93,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-19 14:30:09</sys_updated_on>
-            <u_translation_log_id/>
             <value>4</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -117,7 +112,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-19 14:30:29</sys_updated_on>
-            <u_translation_log_id/>
             <value>5</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -137,7 +131,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-19 14:30:59</sys_updated_on>
-            <u_translation_log_id/>
             <value>7</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -146,13 +139,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-01-19 14:26:55</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>0498ab5adb0b670033d057935e961913</sys_id>
+            <sys_id>dd172fe0db5f2300f0effabdbf96199e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>state</sys_name>
             <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
             <sys_update_name>sys_choice_x_snc_rs_db_request_state</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

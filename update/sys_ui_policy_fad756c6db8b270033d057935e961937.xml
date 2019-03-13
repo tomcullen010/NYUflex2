@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>true</active>
-        <conditions table="x_snc_rs_db_request">support_activity=5fd44afddb8fe30033d057935e961906^report_needed=74a8cab1dbcfe30033d057935e961979^EQ<item display_table="x_snc_rs_db_support_activity" display_value="Reporting" endquery="false" field="support_activity" goto="false" newquery="false" operator="=" or="false" value="5fd44afddb8fe30033d057935e961906"/>
-            <item display_table="x_snc_rs_db_available_reports" display_value="DEDRPT" endquery="false" field="report_needed" goto="false" newquery="false" operator="=" or="false" value="74a8cab1dbcfe30033d057935e961979"/>
+        <conditions table="x_snc_rs_db_request">support_activity=5fd44afddb8fe30033d057935e961906^report_needed=74a8cab1dbcfe30033d057935e961979^EQ<item endquery="false" field="support_activity" goto="false" newquery="false" operator="=" or="false" value="5fd44afddb8fe30033d057935e961906"/>
+            <item endquery="false" field="report_needed" goto="false" newquery="false" operator="=" or="false" value="74a8cab1dbcfe30033d057935e961979"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>
         <description/>
@@ -26,7 +26,6 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-18 13:55:50</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fad756c6db8b270033d057935e961937</sys_id>
@@ -35,7 +34,6 @@
         <sys_overrides/>
         <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
         <sys_update_name>sys_ui_policy_fad756c6db8b270033d057935e961937</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
