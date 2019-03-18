@@ -3,6 +3,8 @@
         <block display_value="">a8dae7dadb0b670033d057935e961941</block>
         <comment/>
         <connected_to>22f18eff-b79a-4403-acf6-f1b39a562600</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
         <display_text/>
         <flow display_value="RS DB Technical System Support">263fbe82db0f270033d057935e9619dc</flow>
         <inputs/>

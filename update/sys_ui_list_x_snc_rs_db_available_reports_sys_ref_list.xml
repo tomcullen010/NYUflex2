@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>report</element>
-            <list_id display_value="x_snc_rs_db_available_reports" element="NULL" name="x_snc_rs_db_available_reports" parent="NULL" relationship="NULL" sys_domain="global" view="9a662710132012008ac858a12244b05c">d7461286db8b270033d057935e9619f1</list_id>
+            <list_id display_value="x_snc_rs_db_available_reports" element="NULL" name="x_snc_rs_db_available_reports" parent="NULL" relationship="NULL" sys_domain="global" view="5f7d153313102200d70550f82244b07e">d7461286db8b270033d057935e9619f1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -42,7 +42,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-18 13:49:02</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">9a662710132012008ac858a12244b05c</view>
+            <view display_value="Reference List" name="sys_ref_list">5f7d153313102200d70550f82244b07e</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>true</active>
-        <conditions table="x_snc_rs_db_request">support_activity=a1a40afddb8fe30033d057935e9619fe^EQ<item display_table="x_snc_rs_db_support_activity" display_value="LV EPP support" endquery="false" field="support_activity" goto="false" newquery="false" operator="=" or="false" value="a1a40afddb8fe30033d057935e9619fe"/>
+        <conditions table="x_snc_rs_db_request">support_activity=a1a40afddb8fe30033d057935e9619fe^EQ<item endquery="false" field="support_activity" goto="false" newquery="false" operator="=" or="false" value="a1a40afddb8fe30033d057935e9619fe"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>
         <description/>

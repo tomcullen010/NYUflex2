@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>true</active>
-        <conditions table="x_snc_rs_db_request">support_activity=5fd44afddb8fe30033d057935e961906^report_needed=fdb8cab1dbcfe30033d057935e961980^ORreport_needed=f8c8cab1dbcfe30033d057935e961983^EQ<item display_table="x_snc_rs_db_support_activity" display_value="Reporting" endquery="false" field="support_activity" goto="false" newquery="false" operator="=" or="false" value="5fd44afddb8fe30033d057935e961906"/>
-            <item display_table="x_snc_rs_db_available_reports" display_value="Paid up data listing" endquery="false" field="report_needed" goto="false" newquery="false" operator="=" or="false" value="fdb8cab1dbcfe30033d057935e961980"/>
-            <item display_table="x_snc_rs_db_available_reports" display_value="Payee data listing" endquery="false" field="report_needed" goto="false" newquery="false" operator="=" or="true" value="f8c8cab1dbcfe30033d057935e961983"/>
+        <conditions table="x_snc_rs_db_request">support_activity=5fd44afddb8fe30033d057935e961906^report_needed=fdb8cab1dbcfe30033d057935e961980^ORreport_needed=f8c8cab1dbcfe30033d057935e961983^EQ<item endquery="false" field="support_activity" goto="false" newquery="false" operator="=" or="false" value="5fd44afddb8fe30033d057935e961906"/>
+            <item endquery="false" field="report_needed" goto="false" newquery="false" operator="=" or="false" value="fdb8cab1dbcfe30033d057935e961980"/>
+            <item endquery="false" field="report_needed" goto="false" newquery="false" operator="=" or="true" value="f8c8cab1dbcfe30033d057935e961983"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>
         <description/>

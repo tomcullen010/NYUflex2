@@ -3,6 +3,8 @@
         <block display_value="">c6b28b46db0f270033d057935e96194d</block>
         <comment>Support Activity = Crystal support</comment>
         <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
         <display_text/>
         <flow display_value="RS DB Technical System Support">263fbe82db0f270033d057935e9619dc</flow>
         <inputs/>

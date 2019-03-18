@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>true</active>
-        <conditions table="x_snc_rs_db_request">support_activity=95054efddb8fe30033d057935e961952^dx_activity=map promotion^EQ<item display_table="x_snc_rs_db_support_activity" display_value="Data Exchange" endquery="false" field="support_activity" goto="false" newquery="false" operator="=" or="false" value="95054efddb8fe30033d057935e961952"/>
+        <conditions table="x_snc_rs_db_request">support_activity=95054efddb8fe30033d057935e961952^dx_activity=map promotion^EQ<item endquery="false" field="support_activity" goto="false" newquery="false" operator="=" or="false" value="95054efddb8fe30033d057935e961952"/>
             <item endquery="false" field="dx_activity" goto="false" newquery="false" operator="=" or="false" value="map promotion"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>

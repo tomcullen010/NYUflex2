@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-18 18:04:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f8864f414f90f700a91770f24210c77f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SysRelatedList</sys_name>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_scope_privilege_f8864f414f90f700a91770f24210c77f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-18 18:04:14</sys_updated_on>
+        <target_name>SysRelatedList</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Increment-decrement integer field">c68bff96db4b670033d057935e961995</action_type>
+        <action_type display_value="">c68bff96db4b670033d057935e961995</action_type>
         <action_type_parent/>
         <comment/>
         <compiled_snapshot/>
@@ -41,29 +40,4 @@
         <value>2</value>
         <variable display_value="">97574576dbc7a70033d057935e9619d5</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=d4c741b6dbc7a70033d057935e961914"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>rsdbrequest</field>
-        <id>d4c741b6dbc7a70033d057935e961914</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-01-20 16:01:19</sys_created_on>
-        <sys_id>94c741b6dbc7a70033d057935e96191a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-20 16:01:19</sys_updated_on>
-        <table>var__m_sys_hub_action_input_c68bff96db4b670033d057935e961995</table>
-        <value>{{Created or Updated_1.current}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>variable</field>
-        <id>d4c741b6dbc7a70033d057935e961914</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-01-20 16:01:19</sys_created_on>
-        <sys_id>d0c741b6dbc7a70033d057935e96191a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-20 16:01:19</sys_updated_on>
-        <table>var__m_sys_hub_action_input_c68bff96db4b670033d057935e961995</table>
-        <value/>
-    </sys_element_mapping>
 </record_update>
