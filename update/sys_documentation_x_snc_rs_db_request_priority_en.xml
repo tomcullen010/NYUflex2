@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="priority" label="" language="en" table="x_snc_rs_db_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <help/>
+            <hint>Only indicate High if you have a critical need to have the request fulfilled prior to the SLA.   This request will be subject to all approval.  Note: Selecting High may result in additional cost.</hint>
+            <label/>
+            <language>en</language>
+            <name>x_snc_rs_db_request</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-26 12:22:21</sys_created_on>
+            <sys_id>bdc4c363db1c3300f0effabdbf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_rs_db_request</sys_name>
+            <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_rs_db_request_priority_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-26 12:22:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">f66637e3db9c3300f0effabdbf9619a8</block>
+        <comment>Promote Change to Production</comment>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="RS DB Crystal Support">972d5363db5c3300f0effabdbf9619d1</flow>
+        <inputs/>
+        <logic_definition display_value="Do the following until">eaeb040687210300e6c2c88fc0e3ec89</logic_definition>
+        <order>6</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:58:21</sys_created_on>
+        <sys_id>3e6637e3db9c3300f0effabdbf9619a9</sys_id>
+        <sys_mod_count>31</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_3e6637e3db9c3300f0effabdbf9619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-27 13:36:46</sys_updated_on>
+        <ui_id>de561e4e-984f-4917-bde4-5df50f52c4dc</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=3e6637e3db9c3300f0effabdbf9619a9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>3e6637e3db9c3300f0effabdbf9619a9</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:05:58</sys_created_on>
+        <sys_id>52287b27db9c3300f0effabdbf9619bd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 21:13:37</sys_updated_on>
+        <value>{{cb1952fa-533d-4cf3-a4f7-cd97792301d7.Record.state}}=4^NQ{{b34942c6-2118-48b0-bb42-0b46acf36652.Record.request_count}}&gt;2</value>
+        <variable display_value="">d7138f0473031300612c273ffff6a78c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>3e6637e3db9c3300f0effabdbf9619a9</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:58:21</sys_created_on>
+        <sys_id>b26637e3db9c3300f0effabdbf9619ad</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 21:13:37</sys_updated_on>
+        <value>Request is Closed Complete or Request Center Task Count &gt; 2</value>
+        <variable display_value="">bda2cb0473031300612c273ffff6a750</variable>
+    </sys_variable_value>
+</record_update>

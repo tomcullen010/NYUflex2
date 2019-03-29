@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
+        <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <comment>Create Request Center Task for Production Promotion</comment>
+        <compiled_snapshot>2b3a6335531003003bf1d9109ec58759</compiled_snapshot>
+        <display_text/>
+        <flow display_value="RS DB Crystal Support">2d7d3b2bdb9c3300f0effabdbf9619c3</flow>
+        <order>5.1</order>
+        <parent_ui_id>de561e4e-984f-4917-bde4-5df50f52c4dc</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:10</sys_created_on>
+        <sys_id>427d7b2bdb9c3300f0effabdbf961959</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_hub_action_instance_427d7b2bdb9c3300f0effabdbf961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:10</sys_updated_on>
+        <ui_id>b34942c6-2118-48b0-bb42-0b46acf36652</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=427d7b2bdb9c3300f0effabdbf961959"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>427d7b2bdb9c3300f0effabdbf961959</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:10</sys_created_on>
+        <sys_id>c27d7b2bdb9c3300f0effabdbf96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:10</sys_updated_on>
+        <value>x_snc_rs_db_request_center_tasks</value>
+        <variable display_value="">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=427d7b2bdb9c3300f0effabdbf961959"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>427d7b2bdb9c3300f0effabdbf961959</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:10</sys_created_on>
+        <sys_id>427d7b2bdb9c3300f0effabdbf96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:10</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value>assignment_group={"display":"RS DB RS App Support Group","value":"c50a2babdb5c3300f0effabdbf961960"}^description={{cb1952fa-533d-4cf3-a4f7-cd97792301d7.Record.description}}^short_description={{cb1952fa-533d-4cf3-a4f7-cd97792301d7.Record.description}}^state=1^ticket_type=RS App Support HP SM^request_count=1</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>427d7b2bdb9c3300f0effabdbf961959</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:10</sys_created_on>
+        <sys_id>8e7d7b2bdb9c3300f0effabdbf96195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:10</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

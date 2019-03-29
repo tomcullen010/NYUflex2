@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="ticket_type" table="x_snc_rs_db_request_center_tasks" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ticket_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Crystal Dev HP SM</label>
+            <language>en</language>
+            <name>x_snc_rs_db_request_center_tasks</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-26 13:08:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e7f432bdb1c3300f0effabdbf96191d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-26 13:09:30</sys_updated_on>
+            <value>Crystal Dev HP SM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ticket_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LV Dev HP SM</label>
+            <language>en</language>
+            <name>x_snc_rs_db_request_center_tasks</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-26 13:10:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64afc72bdb1c3300f0effabdbf9619ac</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-26 13:10:44</sys_updated_on>
+            <value>LV Dev HP SM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ticket_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RS App Support HP SM</label>
+            <language>en</language>
+            <name>x_snc_rs_db_request_center_tasks</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-26 13:11:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27ffcbe7db1c3300f0effabdbf9619f2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-26 13:11:37</sys_updated_on>
+            <value>RS App Support HP SM</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>ticket_type</element>
+            <name>x_snc_rs_db_request_center_tasks</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-26 13:08:53</sys_created_on>
+            <sys_id>28af432bdb1c3300f0effabdbf96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ticket_type</sys_name>
+            <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+            <sys_update_name>sys_choice_x_snc_rs_db_request_center_tasks_ticket_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-26 13:08:53</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

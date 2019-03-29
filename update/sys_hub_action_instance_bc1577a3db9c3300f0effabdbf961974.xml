@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <action_type_parent/>
+        <comment>Notify RS App Support Group</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="RS DB Crystal Support">972d5363db5c3300f0effabdbf9619d1</flow>
+        <order>6.1</order>
+        <parent_ui_id>de561e4e-984f-4917-bde4-5df50f52c4dc</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:52:29</sys_created_on>
+        <sys_id>bc1577a3db9c3300f0effabdbf961974</sys_id>
+        <sys_mod_count>62</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_hub_action_instance_bc1577a3db9c3300f0effabdbf961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-27 13:36:45</sys_updated_on>
+        <ui_id>96c2b770-9ad4-4049-a319-a21f850c3578</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=bc1577a3db9c3300f0effabdbf961974"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>bc1577a3db9c3300f0effabdbf961974</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:52:29</sys_created_on>
+        <sys_id>741577a3db9c3300f0effabdbf96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 15:52:29</sys_updated_on>
+        <value/>
+        <variable display_value="">c71241160b100300d97d8bf637673a55</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>bc1577a3db9c3300f0effabdbf961974</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:07</sys_created_on>
+        <sys_id>ad7d3b2bdb9c3300f0effabdbf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:07</sys_updated_on>
+        <value/>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=bc1577a3db9c3300f0effabdbf961974"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>bc1577a3db9c3300f0effabdbf961974</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:07</sys_created_on>
+        <sys_id>2d7d3b2bdb9c3300f0effabdbf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:07</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="55b7deb0-276e-4eff-801b-1a6ca9b86af0" data-pillvalue="{{b34942c6-2118-48b0-bb42-0b46acf36652.Record.number}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="55b7deb0-276e-4eff-801b-1a6ca9b86af0" data-pillvalue="{{b34942c6-2118-48b0-bb42-0b46acf36652.Record.number}}"&gt;5➛Request Center Tasks Record➛Number&lt;/span&gt;&lt;/span&gt; has been assigned to your group.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Go Bruins!&lt;/p&gt;</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>bc1577a3db9c3300f0effabdbf961974</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:52:29</sys_created_on>
+        <sys_id>f01577a3db9c3300f0effabdbf96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 15:52:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="55b7deb0-276e-4eff-801b-1a6ca9b86af0" data-pillvalue="{{b34942c6-2118-48b0-bb42-0b46acf36652.Record.number}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="55b7deb0-276e-4eff-801b-1a6ca9b86af0" data-pillvalue="{{b34942c6-2118-48b0-bb42-0b46acf36652.Record.number}}"&gt;5➛Request Center Tasks Record➛Number&lt;/span&gt;&lt;/span&gt; has been assigned to your group.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Go Bruins!&lt;/p&gt;</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>bc1577a3db9c3300f0effabdbf961974</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:52:29</sys_created_on>
+        <sys_id>301577a3db9c3300f0effabdbf96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 15:52:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>Move to Prod Request {{b34942c6-2118-48b0-bb42-0b46acf36652.Record.number}}has been assigned to your group.</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>bc1577a3db9c3300f0effabdbf961974</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:07</sys_created_on>
+        <sys_id>697d3b2bdb9c3300f0effabdbf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:07</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>Move to Prod Request {{b34942c6-2118-48b0-bb42-0b46acf36652.Record.number}}has been assigned to your group.</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>bc1577a3db9c3300f0effabdbf961974</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:52:29</sys_created_on>
+        <sys_id>7c1577a3db9c3300f0effabdbf961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 15:52:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>{{b34942c6-2118-48b0-bb42-0b46acf36652.Record.assignment_group}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>bc1577a3db9c3300f0effabdbf961974</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:07</sys_created_on>
+        <sys_id>a57d3b2bdb9c3300f0effabdbf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:07</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{b34942c6-2118-48b0-bb42-0b46acf36652.Record.assignment_group}}</value>
+    </sys_element_mapping>
+</record_update>

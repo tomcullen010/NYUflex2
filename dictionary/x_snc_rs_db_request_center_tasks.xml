@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Request Center Tasks" max_length="40" name="x_snc_rs_db_request_center_tasks" type="collection"/>
+    <element extends="task" label="Request Center Tasks" max_length="40" name="x_snc_rs_db_request_center_tasks" sizeclass="2" type="collection">
+        <element label="Parent String" max_length="40" name="parent_string" type="string"/>
+        <element default="0" label="Request count" max_length="40" name="request_count" type="integer"/>
+        <element choice="1" label="Ticket type" max_length="40" name="ticket_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Crystal Dev HP SM" sequence="10" value="Crystal Dev HP SM"/>
+                <element inactive_on_update="false" label="LV Dev HP SM" sequence="20" value="LV Dev HP SM"/>
+                <element inactive_on_update="false" label="RS App Support HP SM" sequence="30" value="RS App Support HP SM"/>
+            </choice>
+        </element>
+    </element>
 </database>

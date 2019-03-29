@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_subflow_plan">
+    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
+        <plan>com.snc.process_flow.engine.ProcessPlan@c1f101</plan>
+        <plan_id display_value="RS DB Crystal Support">972d5363db5c3300f0effabdbf9619d1</plan_id>
+        <snapshot>2d7d3b2bdb9c3300f0effabdbf9619c3</snapshot>
+        <sys_class_name>sys_flow_subflow_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:11</sys_created_on>
+        <sys_id>667d7b2bdb9c3300f0effabdbf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>972d5363db5c3300f0effabdbf9619d1</sys_name>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_flow_subflow_plan_667d7b2bdb9c3300f0effabdbf96199e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:11</sys_updated_on>
+    </sys_flow_subflow_plan>
+</record_update>

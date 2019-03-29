@@ -9,19 +9,17 @@
         <next_question/>
         <order>100</order>
         <payload_name/>
-        <question display_value="Task" name="Task">b26e597313102200d70550f82244b081</question>
+        <question display_value="Task" name="Task">6cdbdf75dd0323007850f2ee37a03983</question>
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2019-03-14 11:18:44</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>b15309374f88b300a91770f24210c7ac</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Request Center Tasks</sys_name>
         <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
         <sys_update_name>sys_wizard_answer_b15309374f88b300a91770f24210c7ac</sys_update_name>
         <sys_updated_by>system</sys_updated_by>

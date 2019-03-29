@@ -17,7 +17,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-18 14:28:12</sys_updated_on>
-            <u_translation_log_id/>
             <value>internal</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -37,7 +36,6 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-18 14:28:33</sys_updated_on>
-            <u_translation_log_id/>
             <value>external</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -46,13 +44,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-01-18 14:28:12</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>2063c9374f88b300a91770f24210c7c6</sys_id>
+            <sys_id>4fed7e2bdbd83300f0effabdbf9619d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>report_style</sys_name>
             <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
             <sys_update_name>sys_choice_x_snc_rs_db_request_report_style</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

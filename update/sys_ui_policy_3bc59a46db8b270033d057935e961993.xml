@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>true</active>
-        <conditions table="x_snc_rs_db_request">support_activity=5fd44afddb8fe30033d057935e961906^EQ<item endquery="false" field="support_activity" goto="false" newquery="false" operator="=" or="false" value="5fd44afddb8fe30033d057935e961906"/>
+        <conditions table="x_snc_rs_db_request">support_activity=f2def22fdbd83300f0effabdbf9619bb^EQ<item display_table="x_snc_rs_db_support_activity" display_value="Reporting" endquery="false" field="support_activity" goto="false" newquery="false" operator="=" or="false" value="f2def22fdbd83300f0effabdbf9619bb"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>
         <description/>
@@ -25,20 +25,18 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-18 13:46:53</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3bc59a46db8b270033d057935e961993</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Support Activity = Reporting</sys_name>
         <sys_overrides/>
         <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
         <sys_update_name>sys_ui_policy_3bc59a46db8b270033d057935e961993</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-18 13:53:14</sys_updated_on>
+        <sys_updated_on>2019-03-26 13:25:04</sys_updated_on>
         <table>x_snc_rs_db_request</table>
         <ui_type>0</ui_type>
         <view/>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
+        <action_type_parent/>
+        <comment>Create Request Center Task for Production Promotion</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="RS DB Crystal Support">972d5363db5c3300f0effabdbf9619d1</flow>
+        <order>5</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:48:12</sys_created_on>
+        <sys_id>d6147b63db9c3300f0effabdbf9619c0</sys_id>
+        <sys_mod_count>66</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_hub_action_instance_d6147b63db9c3300f0effabdbf9619c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-27 13:36:45</sys_updated_on>
+        <ui_id>b34942c6-2118-48b0-bb42-0b46acf36652</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=d6147b63db9c3300f0effabdbf9619c0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d6147b63db9c3300f0effabdbf9619c0</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:07</sys_created_on>
+        <sys_id>217d3b2bdb9c3300f0effabdbf961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:07</sys_updated_on>
+        <value>x_snc_rs_db_request_center_tasks</value>
+        <variable display_value="">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d6147b63db9c3300f0effabdbf9619c0</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 21:41:34</sys_created_on>
+        <sys_id>62f4c13fdb507300f0effabdbf96192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 21:41:34</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">ff3a6335531003003bf1d9109ec58777</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d6147b63db9c3300f0effabdbf9619c0</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:48:12</sys_created_on>
+        <sys_id>de147b63db9c3300f0effabdbf9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 15:48:12</sys_updated_on>
+        <value>x_snc_rs_db_request_center_tasks</value>
+        <variable display_value="">957cdff1531003003bf1d9109ec58753</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=d6147b63db9c3300f0effabdbf9619c0"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>d6147b63db9c3300f0effabdbf9619c0</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:48:12</sys_created_on>
+        <sys_id>5e147b63db9c3300f0effabdbf9619c5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:27:30</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value>assignment_group={"display":"RS DB RS App Support Group","value":"c50a2babdb5c3300f0effabdbf961960"}^description={{cb1952fa-533d-4cf3-a4f7-cd97792301d7.Record.description}}^short_description={{cb1952fa-533d-4cf3-a4f7-cd97792301d7.Record.description}}^state=1^ticket_type=RS App Support HP SM^request_count=1</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>d6147b63db9c3300f0effabdbf9619c0</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:07</sys_created_on>
+        <sys_id>ad7d3b2bdb9c3300f0effabdbf961996</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 18:51:49</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value>assignment_group={"display":"RS DB RS App Support Group","value":"c50a2babdb5c3300f0effabdbf961960"}^description={{cb1952fa-533d-4cf3-a4f7-cd97792301d7.Record.description}}^short_description={{cb1952fa-533d-4cf3-a4f7-cd97792301d7.Record.description}}^state=1^ticket_type=RS App Support HP SM^request_count=1^parent={{cb1952fa-533d-4cf3-a4f7-cd97792301d7.Record.number}}^parent_string={{cb1952fa-533d-4cf3-a4f7-cd97792301d7.Record.number}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>d6147b63db9c3300f0effabdbf9619c0</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 15:48:12</sys_created_on>
+        <sys_id>9a147b63db9c3300f0effabdbf9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 15:48:12</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>d6147b63db9c3300f0effabdbf9619c0</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 16:29:07</sys_created_on>
+        <sys_id>e97d3b2bdb9c3300f0effabdbf961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 16:29:07</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>d6147b63db9c3300f0effabdbf9619c0</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-26 21:41:34</sys_created_on>
+        <sys_id>eef4c13fdb507300f0effabdbf96192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-26 21:41:34</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

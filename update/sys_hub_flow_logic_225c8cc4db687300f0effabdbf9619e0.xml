@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">e65c8cc4db687300f0effabdbf9619de</block>
+        <comment/>
+        <connected_to>d46e8f60-3a1b-4220-8277-983027631f6b</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="RS DB Crystal Support">972d5363db5c3300f0effabdbf9619d1</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>4.4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>9d904e3d-8b7f-4fcb-a5ba-18c302e94d5c</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-27 12:12:39</sys_created_on>
+        <sys_id>225c8cc4db687300f0effabdbf9619e0</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_225c8cc4db687300f0effabdbf9619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-27 13:36:45</sys_updated_on>
+        <ui_id>6fd06750-9a46-4634-a4bb-f7598ddbb737</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=225c8cc4db687300f0effabdbf9619e0"/>
+</record_update>

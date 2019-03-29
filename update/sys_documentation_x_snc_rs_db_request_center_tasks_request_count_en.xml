@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="request_count" label="Request count" language="en" table="x_snc_rs_db_request_center_tasks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>request_count</element>
+            <help/>
+            <hint/>
+            <label>Request count</label>
+            <language>en</language>
+            <name>x_snc_rs_db_request_center_tasks</name>
+            <plural>Request counts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-26 16:01:28</sys_created_on>
+            <sys_id>e8273fe3db9c3300f0effabdbf9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Request count</sys_name>
+            <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_rs_db_request_center_tasks_request_count_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-26 16:01:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

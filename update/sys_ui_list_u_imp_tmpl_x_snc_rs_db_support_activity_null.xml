@@ -3,92 +3,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_row</element>
-            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">aa14c1f74f88b300a91770f24210c737</list_id>
+            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6fceb22fdbd83300f0effabdbf9619c9</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-14 11:22:04</sys_created_on>
-            <sys_id>ee14c1f74f88b300a91770f24210c737</sys_id>
+            <sys_created_on>2019-03-26 11:55:22</sys_created_on>
+            <sys_id>e3ceb22fdbd83300f0effabdbf9619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-14 11:22:04</sys_updated_on>
+            <sys_updated_on>2019-03-26 11:55:22</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_set</element>
-            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">aa14c1f74f88b300a91770f24210c737</list_id>
+            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6fceb22fdbd83300f0effabdbf9619c9</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-14 11:22:04</sys_created_on>
-            <sys_id>6214c1f74f88b300a91770f24210c738</sys_id>
+            <sys_created_on>2019-03-26 11:55:22</sys_created_on>
+            <sys_id>67ceb22fdbd83300f0effabdbf9619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-14 11:22:04</sys_updated_on>
+            <sys_updated_on>2019-03-26 11:55:22</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_state</element>
-            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">aa14c1f74f88b300a91770f24210c737</list_id>
+            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6fceb22fdbd83300f0effabdbf9619c9</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-14 11:22:04</sys_created_on>
-            <sys_id>e214c1f74f88b300a91770f24210c738</sys_id>
+            <sys_created_on>2019-03-26 11:55:22</sys_created_on>
+            <sys_id>e7ceb22fdbd83300f0effabdbf9619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-14 11:22:04</sys_updated_on>
+            <sys_updated_on>2019-03-26 11:55:22</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_target_table</element>
-            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">aa14c1f74f88b300a91770f24210c737</list_id>
+            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6fceb22fdbd83300f0effabdbf9619c9</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-14 11:22:04</sys_created_on>
-            <sys_id>6614c1f74f88b300a91770f24210c738</sys_id>
+            <sys_created_on>2019-03-26 11:55:22</sys_created_on>
+            <sys_id>6bceb22fdbd83300f0effabdbf9619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-14 11:22:04</sys_updated_on>
+            <sys_updated_on>2019-03-26 11:55:22</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_target_sys_id</element>
-            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">aa14c1f74f88b300a91770f24210c737</list_id>
+            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6fceb22fdbd83300f0effabdbf9619c9</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-14 11:22:04</sys_created_on>
-            <sys_id>e614c1f74f88b300a91770f24210c738</sys_id>
+            <sys_created_on>2019-03-26 11:55:22</sys_created_on>
+            <sys_id>ebceb22fdbd83300f0effabdbf9619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-14 11:22:04</sys_updated_on>
+            <sys_updated_on>2019-03-26 11:55:22</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_row_error</element>
-            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">aa14c1f74f88b300a91770f24210c737</list_id>
+            <list_id display_value="u_imp_tmpl_x_snc_rs_db_support_activity" element="NULL" name="u_imp_tmpl_x_snc_rs_db_support_activity" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6fceb22fdbd83300f0effabdbf9619c9</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-14 11:22:04</sys_created_on>
-            <sys_id>6a14c1f74f88b300a91770f24210c738</sys_id>
+            <sys_created_on>2019-03-26 11:55:22</sys_created_on>
+            <sys_id>6fceb22fdbd83300f0effabdbf9619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-14 11:22:04</sys_updated_on>
+            <sys_updated_on>2019-03-26 11:55:22</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -102,20 +102,18 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-14 11:22:04</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_on>2019-03-26 11:55:22</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>aa14c1f74f88b300a91770f24210c737</sys_id>
+            <sys_id>6fceb22fdbd83300f0effabdbf9619c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_imp_tmpl_x_snc_rs_db_support_activity</sys_name>
             <sys_package display_value="RS DB" source="x_snc_rs_db">150bb175db8fe30033d057935e96190b</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="RS DB">150bb175db8fe30033d057935e96190b</sys_scope>
             <sys_update_name>sys_ui_list_u_imp_tmpl_x_snc_rs_db_support_activity_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-14 11:22:04</sys_updated_on>
+            <sys_updated_on>2019-03-26 11:55:22</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
